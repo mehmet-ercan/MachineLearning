@@ -1,0 +1,23 @@
+def predict(Length, Diameter, Height, Whole weight, Shucked weight, Viscera weight, Shell weight, Sex_F, Sex_I, Sex_M):
+    if Shell weight <= 0.14:
+        if Diameter <= 0.22:
+            if Viscera weight <= 0.01:
+                return 41 samples
+            else:  # if Viscera weight > 0.01
+                return 108 samples
+        else:  # if Diameter > 0.22
+            if Sex_I <= 0.5:
+                return 227 samples
+            else:  # if Sex_I > 0.5
+                return 467 samples
+    else:  # if Shell weight > 0.14
+        if Shell weight <= 0.29:
+            if Shucked weight <= 0.43:
+                return 900 samples
+            else:  # if Shucked weight > 0.43
+                return 215 samples
+        else:  # if Shell weight > 0.29
+            if Shucked weight <= 0.43:
+                return 158 samples
+            else:  # if Shucked weight > 0.43
+                return 807 samples
