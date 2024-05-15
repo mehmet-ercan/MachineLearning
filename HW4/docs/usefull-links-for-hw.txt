@@ -1,1 +1,4 @@
 https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch
+https://medium.com/@joel_34096/k-means-clustering-for-image-classification-a648f28bdc47
+https://github.com/sharmaroshan/MNIST-Using-K-means/blob/master/KMeans%20Clustering%20for%20Imagery%20Analysis%20(Jupyter%20Notebook).ipynb
+https://goodboychan.github.io/python/machine_learning/natural_language_processing/vision/2020/10/26/01-K-Means-Clustering-for-Imagery-Analysis.html
